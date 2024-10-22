@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A95954-0C83-4241-B096-4F23078CC47F}|HelpApi.csproj|c:\\users\\falcao\\source\\repos\\helpapi\\controllers\\pedidoajudacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A95954-0C83-4241-B096-4F23078CC47F}|HelpApi.csproj|solutionrelative:controllers\\pedidoajudacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A95954-0C83-4241-B096-4F23078CC47F}|HelpApi.csproj|c:\\users\\falcao\\source\\repos\\helpapi\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A95954-0C83-4241-B096-4F23078CC47F}|HelpApi.csproj|solutionrelative:pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A95954-0C83-4241-B096-4F23078CC47F}|HelpApi.csproj|c:\\users\\falcao\\source\\repos\\helpapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A95954-0C83-4241-B096-4F23078CC47F}|HelpApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A95954-0C83-4241-B096-4F23078CC47F}|HelpApi.csproj|c:\\users\\falcao\\source\\repos\\helpapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6A95954-0C83-4241-B096-4F23078CC47F}|HelpApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1000,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoAjudaController.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\Controllers\\PedidoAjudaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidoAjudaController.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\Controllers\\PedidoAjudaController.cs",
+              "RelativeToolTip": "Controllers\\PedidoAjudaController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:03:35.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:46:25.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T08:25:24.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Pedidos.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\HelpApi\\Pedidos.cs",
+              "RelativeToolTip": "Pedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:01:54.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 564,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
